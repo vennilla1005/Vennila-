@@ -122,7 +122,7 @@ Built and deployed a multi-container application using Docker Compose by integra
 Mother Terasa College of Engineering and Technology, Pudukkotai  
 
 💼 6-Month AWS & DevOps Cloud Computing Intern  
-HTGE Pvt Ltd, Pondicherry  
+HTGE Pvt Ltd, Besant Technologies  
 
 ☁️ Passionate about AWS Cloud Infrastructure, DevOps & Automation  
 
